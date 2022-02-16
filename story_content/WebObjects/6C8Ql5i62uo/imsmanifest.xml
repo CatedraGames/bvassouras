@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6iH7i0nEOXv_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Game Bruxa das Vassouras  EX</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Game_Bruxa_das_Vassouras__EX_ORG">
+    <organization identifier="Game_Bruxa_das_Vassouras__EX_ORG">
+      <title>Game Bruxa das Vassouras  EX</title>
+      <item identifier="modelo2021_widescreen_SCO" isvisible="true" identifierref="__6iH7i0nEOXv_course_id_RES">
+        <title>Game Bruxa das Vassouras  EX</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6iH7i0nEOXv_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6YicTF3TbKr_18_160_1014x452.mp4" />
+      <file href="mobile/poster_6QqQINiJWWT_video_6YicTF3TbKr_18_160_1014x452.jpg" />
+      <file href="mobile/5Y0sSfXGekN_DX76_DY76_CX51_CY56.png" />
+      <file href="mobile/6FJLOosEhM5_DX400_DY400_CX300_CY300.png" />
+      <file href="story_content/6YTWDbchqUH_44100_160_1.mp3" />
+      <file href="story_content/6cWByuQ6Y1i_44100_160_1.mp3" />
+      <file href="mobile/5Y0sSfXGekN_DX74_DY74_CX42_CY46.png" />
+      <file href="mobile/5so22ifBKfO_DX1000_DY1000_CX500_CY500.png" />
+      <file href="mobile/5yTZMOuL6ca_DX272_DY272_CX63_CY48.gif" />
+      <file href="mobile/5xwBfiRelkU_DX436_DY436_CX218_CY194.gif" />
+      <file href="story_content/5x9zzwfskyp_44100_160_1.mp3" />
+      <file href="mobile/6NIw0x5dTiS_DX1134_DY1134_CX567_CY278.png" />
+      <file href="mobile/5Za57aHb3uB_DX1750_DY1750_CX875_CY237.png" />
+      <file href="mobile/65FtikU3Llj_DX1750_DY1750_CX875_CY237.png" />
+      <file href="mobile/6qOqHUTbztB_DX2556_DY2556_CX1278_CY570.png" />
+      <file href="mobile/5yTZMOuL6ca_X_DX274_DY274_CX190_CY145.gif" />
+      <file href="mobile/6BNZbozRVd8_DX590_DY590_CX442_CY63.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5j1tsOvQCy3.jpg" />
+      <file href="mobile/Slide6lLqoyhBIHq.jpg" />
+      <file href="mobile/Slide6Zwh4e88poj.jpg" />
+      <file href="mobile/Shape5VpcNxsvwFE.png" />
+      <file href="mobile/Shape62xCbZea1i2.png" />
+      <file href="mobile/Shape6OczC3GHnzT.png" />
+      <file href="mobile/Shape5k3mXsGzZqq.png" />
+      <file href="mobile/Shape6UcdPDfEPO1.png" />
+      <file href="mobile/Shape5XOVMwei59v.png" />
+      <file href="mobile/Shape5v43iNPHrJa.png" />
+      <file href="mobile/Shape6VQpSubUdyQ.png" />
+      <file href="mobile/Shape60BsjxO4Al0.png" />
+      <file href="mobile/Shape65gA550Bzb7.png" />
+      <file href="mobile/Shape5q7FDGR0F7t.png" />
+      <file href="mobile/Shape6PeB5yGCjPV.png" />
+      <file href="mobile/Slide6UbqUQnn3BY.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5eJcJLcVKDQ.js" />
+      <file href="html5/data/js/5oXcqEjCegl.js" />
+      <file href="html5/data/js/63aRImXU3TS.js" />
+      <file href="html5/data/js/6ciO8lDnwaG.js" />
+      <file href="html5/data/js/6k3c2iW3RE5.js" />
+      <file href="html5/data/js/6q2YDxXjaDp.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
